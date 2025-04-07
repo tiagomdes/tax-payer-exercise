@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiago\\source\\repos\\Taxas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D88C51-9A43-41E8-B214-FE3596CAB0D3}|Taxas\\Taxas.csproj|c:\\users\\tiago\\source\\repos\\taxas\\taxas\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D88C51-9A43-41E8-B214-FE3596CAB0D3}|Taxas\\Taxas.csproj|solutionrelative:taxas\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D88C51-9A43-41E8-B214-FE3596CAB0D3}|Taxas\\Taxas.csproj|c:\\users\\tiago\\source\\repos\\taxas\\taxas\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D88C51-9A43-41E8-B214-FE3596CAB0D3}|Taxas\\Taxas.csproj|solutionrelative:taxas\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D88C51-9A43-41E8-B214-FE3596CAB0D3}|Taxas\\Taxas.csproj|c:\\users\\tiago\\source\\repos\\taxas\\taxas\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D88C51-9A43-41E8-B214-FE3596CAB0D3}|Taxas\\Taxas.csproj|solutionrelative:taxas\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D88C51-9A43-41E8-B214-FE3596CAB0D3}|Taxas\\Taxas.csproj|c:\\users\\tiago\\source\\repos\\taxas\\taxas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D88C51-9A43-41E8-B214-FE3596CAB0D3}|Taxas\\Taxas.csproj|solutionrelative:taxas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Taxas\\Taxas\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Taxas\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Taxas\\Taxas\\Entities\\Company.cs",
+              "RelativeToolTip": "Taxas\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:20:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Taxas\\Taxas\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "Taxas\\Entities\\Individual.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Taxas\\Taxas\\Entities\\Individual.cs",
+              "RelativeToolTip": "Taxas\\Entities\\Individual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:09:50.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaxPayer.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Taxas\\Taxas\\Entities\\TaxPayer.cs",
+              "RelativeDocumentMoniker": "Taxas\\Entities\\TaxPayer.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Taxas\\Taxas\\Entities\\TaxPayer.cs",
+              "RelativeToolTip": "Taxas\\Entities\\TaxPayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:06:30.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Taxas\\Taxas\\Program.cs",
+              "RelativeDocumentMoniker": "Taxas\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Taxas\\Taxas\\Program.cs",
+              "RelativeToolTip": "Taxas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:02:24.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

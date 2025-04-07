@@ -1,0 +1,14 @@
+C:\Users\tiago\source\repos\Taxas\Taxas\bin\Debug\net8.0\Taxas.exe
+C:\Users\tiago\source\repos\Taxas\Taxas\bin\Debug\net8.0\Taxas.deps.json
+C:\Users\tiago\source\repos\Taxas\Taxas\bin\Debug\net8.0\Taxas.runtimeconfig.json
+C:\Users\tiago\source\repos\Taxas\Taxas\bin\Debug\net8.0\Taxas.dll
+C:\Users\tiago\source\repos\Taxas\Taxas\bin\Debug\net8.0\Taxas.pdb
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\Taxas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\Taxas.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\Taxas.AssemblyInfo.cs
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\Taxas.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\Taxas.dll
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\refint\Taxas.dll
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\Taxas.pdb
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\Taxas.genruntimeconfig.cache
+C:\Users\tiago\source\repos\Taxas\Taxas\obj\Debug\net8.0\ref\Taxas.dll
